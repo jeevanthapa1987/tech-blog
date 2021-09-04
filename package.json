@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safalmahat/TechBlog.git"
+    "url": "git+https://github.com/jeevanthapa1987/tech-blog.git "
   },
   "author": "Priya Ravi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/safalmahat/TechBlog/issues"
+    "url": "https://github.com/jeevanthapa1987/tech-blog.git"
   },
-  "homepage": "https://github.com/safalmahat/TechBlog#readme",
+  "homepage": "https://github.com/jeevanthapa1987/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
